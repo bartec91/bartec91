@@ -3,13 +3,14 @@
 I have several years of experience in the field of creating and programming websites and online stores. I am  young, ambitious, diligent, self-disciplined, competent Webmaster. I consistently implements the company's strategy. I can be focused on both results and customer satisfaction. I speaks English very well. Determined, consistent, i can make key decisions..
 
 ### My Portfolio: 
-The addresses of the pages I made on my own:
+
+# The addresses of the pages I made on my own:
  
-a.	https://sklep.rakon.com.pl/
+a. https://sklep.rakon.com.pl/
 
-b.  https://rok.com.pl/
+b. https://rok.com.pl/
 
-c.  http://phuterapiaruchowa.bd-media.pl/
+c. http://phuterapiaruchowa.pl/
 
 d.	http://adept.bd-media.pl/
 
@@ -19,18 +20,17 @@ f.	http://komornik-traczykwiankowska.pl/
 
 g.	http://komornikbakalarz.pl/
 
-h.	http://pracowniaryszka.pl/
+h.	http://komornikmisiewicz.pl/
 
-i.	http://komornikmisiewicz.pl/
+i.	http://pasiekatorun.pl/
 
-j.	http://pasiekatorun.pl/
+j.	http://kamieniarstwolipinski.pl/
 
-k.	http://kamieniarstwolipinski.pl/
-
-l.	http://poprostusmacznie.com/
+k.	http://poprostusmacznie.com/
 
 
-Addresses of sites I have completed as a subcontractor:
+
+# Addresses of sites I have completed as a subcontractor:
 
 a.	https://www.domena.pl/
 
@@ -49,7 +49,9 @@ g.	http://ewlon.com.pl/
 h.	http://jamppolska.pl/
 
 
-💬 Contact me: bb@bd-media.pl | bartlomiej@bakalarz.net.pl
+
+
+# 💬 Contact me: bb@bd-media.pl | bartlomiej@bakalarz.net.pl
 <!--
 **bartec91/bartec91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
