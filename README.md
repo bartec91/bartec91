@@ -6,27 +6,48 @@ I have several years of experience in the field of creating and programming webs
 The addresses of the pages I made on my own:
  
 a.	https://sklep.rakon.com.pl/
+
 b.  https://rok.com.pl/
+
 c.  http://phuterapiaruchowa.bd-media.pl/
+
 d.	http://adept.bd-media.pl/
+
 e.	https://komornikbilgoraj.pl/
+
 f.	http://komornik-traczykwiankowska.pl/
+
 g.	http://komornikbakalarz.pl/
+
 h.	http://pracowniaryszka.pl/
+
 i.	http://komornikmisiewicz.pl/
+
 j.	http://pasiekatorun.pl/
+
 k.	http://kamieniarstwolipinski.pl/
+
 l.	http://poprostusmacznie.com/
 
+
 Addresses of sites I have completed as a subcontractor:
+
 a.	https://www.domena.pl/
+
 b.	https://bs-przemkow.pl/
+
 c.	http://herbasz.pl/ 
+
 d.	http://park17.pl/
+
 e.	http://www.cenote.pl/
+
 f.	http://strzelce.pl/pl,index.html
+
 g.	http://ewlon.com.pl/
+
 h.	http://jamppolska.pl/
+
 
 💬 Contact me: bb@bd-media.pl | bartlomiej@bakalarz.net.pl
 <!--
