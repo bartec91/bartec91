@@ -4,7 +4,7 @@ I have several years of experience in the field of creating and programming webs
 
 ### My Portfolio: 
 
-# The addresses of the pages I made on my own:
+### The addresses of the pages I made on my own:
  
 a. https://sklep.rakon.com.pl/
 
@@ -30,7 +30,7 @@ k.	http://poprostusmacznie.com/
 
 
 
-# Addresses of sites I have completed as a subcontractor:
+### Addresses of sites I have completed as a subcontractor:
 
 a.	https://www.domena.pl/
 
