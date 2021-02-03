@@ -1,6 +1,6 @@
 ## Hi it's Bartek!
 
-I have several years of experience in the field of creating and programming websites and online stores. I am  young, ambitious, diligent, self-disciplined, competent Webmaster. I consistently implements the company's strategy. I can be focused on both results and customer satisfaction. I speaks English very well. Determined, consistent, i can make key decisions..
+I have several years of experience in the field of creating and programming websites and online stores. I am  young, ambitious, diligent, self-disciplined, competent Developer. I consistently implements the company's strategy. I can be focused on both results and customer satisfaction. I speaks English very well. Determined, consistent, i can make key decisions..
 
 ### My Portfolio: 
 
