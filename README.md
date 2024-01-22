@@ -4,40 +4,44 @@ I have several years of experience in the field of creating and programming webs
 
 ### My Portfolio: 
 
-### The addresses of the pages I made on my own:
+### URLs of the pages I made on my own:
  
-1.	https://komornikkolbuszowa.pl/ 
-2.	https://www.betonlagow.pl/ 
-3.	https://libet-kielce.pl/ 
-4.	https://komornikbilgoraj.pl/ 
-5.	http://komornik-traczykwiankowska.pl/ 
-6.	http://komornikbakalarz.pl/ 
-7.	https://rok.com.pl/
-8.	http://phuterapiaruchowa.pl/
-9.	http://pasiekatorun.pl/ 
-10.	http://kamieniarstwolipinski.pl/ 
-11.	https://sklep.rakon.com.pl/
+1. https://neptun.hmcloud.pl/
+2. https://szukampomocy.pl/
+3. https://hupa.pl/
+4.	https://komornikkolbuszowa.pl/ 
+5.	https://www.betonlagow.pl/ 
+6.	https://libet-kielce.pl/ 
+7.	https://komornikbilgoraj.pl/ 
+8.	http://komornik-traczykwiankowska.pl/ 
+9.	http://komornikbakalarz.pl/ 
+10.	https://rok.com.pl/
+11.	http://phuterapiaruchowa.pl/
+12.	http://pasiekatorun.pl/ 
+13.	http://kamieniarstwolipinski.pl/ 
+14.	https://sklep.rakon.com.pl/
 
 
 ### Addresses of sites I have completed as a subcontractor:
-1.	https://recucina.pl/
-2.	https://nasionamarihuany.pl/
-3.	https://primagran.pl/
-4.	https://www.enostrada.pl/
-5.	https://assecobs.pl/ 
-6.	https://whitelabelcoders.com/ 
-7.	http://herbasz.pl/ 
-8.	http://park17.pl/ 
-9.	http://www.thaithai.pl/ 
-10.	http://sklep.robimynadruki.pl/ 
-11.	https://strzelce.pl/ 
-12.	http://www.artcentrum.com.pl/ 
-13.	http://vestiaires.net/ 
-14.	http://www.testsa.pl/ 
-15.	http://hanzapalac.pl/ 
-16.	http://ewlon.com.pl/ 
-17.	http://jamppolska.pl/ 
-18.	http://agriland.pl/ 
+1. https://exoticacademy.com/
+2.	https://recucina.pl/
+3.	https://nasionamarihuany.pl/
+4.	https://primagran.pl/
+5.	https://www.enostrada.pl/
+6.	https://assecobs.pl/ 
+7.	https://whitelabelcoders.com/ 
+8.	http://herbasz.pl/ 
+9.	http://park17.pl/ 
+10.	http://www.thaithai.pl/ 
+11.	http://sklep.robimynadruki.pl/ 
+12.	https://strzelce.pl/ 
+13.	http://www.artcentrum.com.pl/ 
+14.	http://vestiaires.net/ 
+15.	http://www.testsa.pl/ 
+16.	http://hanzapalac.pl/ 
+17.	http://ewlon.com.pl/ 
+18.	http://jamppolska.pl/ 
+19.	http://agriland.pl/ 
 
 
 # 💬 Contact me: bb@bd-media.pl | bartlomiej@bakalarz.net.pl
