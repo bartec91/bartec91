@@ -6,22 +6,24 @@ I have several years of experience in the field of creating and programming webs
 
 ### URLs of the pages I made on my own:
  
-1. https://www.bimv.pl/
-2. https://space4tec.com/
-3. https://konferencja2024.fsma.pl/
-4. https://neptun.hmcloud.pl/
-5. https://szukampomocy.pl/
-6. https://hupa.pl/
-7.	https://komornikkolbuszowa.pl/ 
-8.	https://www.betonlagow.pl/ 
-9.	https://libet-kielce.pl/ 
-10.	https://komornikbilgoraj.pl/ 
-11.	http://komornik-traczykwiankowska.pl/ 
-12.	http://komornikbakalarz.pl/ 
-13.	https://rok.com.pl/
-14.	http://phuterapiaruchowa.pl/
-15.	http://pasiekatorun.pl/ 
-16.	http://kamieniarstwolipinski.pl/ 
+1. https://lexconsilia.pl/
+2. https://ungc.org.pl/
+3. https://www.bimv.pl/
+4. https://space4tec.com/
+5. https://konferencja2024.fsma.pl/
+6. https://neptun.hmcloud.pl/
+7. https://szukampomocy.pl/
+8. https://hupa.pl/
+9.	https://komornikkolbuszowa.pl/ 
+10.	https://www.betonlagow.pl/ 
+11.	https://libet-kielce.pl/ 
+12.	https://komornikbilgoraj.pl/ 
+13.	http://komornik-traczykwiankowska.pl/ 
+14.	http://komornikbakalarz.pl/ 
+15.	https://rok.com.pl/
+16.	http://phuterapiaruchowa.pl/
+17.	http://pasiekatorun.pl/ 
+18.	http://kamieniarstwolipinski.pl/ 
 
 
 ### Addresses of sites I have completed as a subcontractor:
