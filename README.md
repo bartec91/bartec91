@@ -6,24 +6,29 @@ I have several years of experience in the field of creating and programming webs
 
 ### URLs of the pages I made on my own:
  
-1. https://lexconsilia.pl/
-2. https://ungc.org.pl/
-3. https://www.bimv.pl/
-4. https://space4tec.com/
-5. https://konferencja2024.fsma.pl/
-6. https://neptun.hmcloud.pl/
-7. https://szukampomocy.pl/
-8. https://hupa.pl/
-9.	https://komornikkolbuszowa.pl/ 
-10.	https://www.betonlagow.pl/ 
-11.	https://libet-kielce.pl/ 
-12.	https://komornikbilgoraj.pl/ 
-13.	http://komornik-traczykwiankowska.pl/ 
-14.	http://komornikbakalarz.pl/ 
-15.	https://rok.com.pl/
-16.	http://phuterapiaruchowa.pl/
-17.	http://pasiekatorun.pl/ 
-18.	http://kamieniarstwolipinski.pl/ 
+1. https://kostkawogrodzie.pl/
+2. https://komornik.bydgoszcz.eu/
+3. https://szkolenia.ungc.org.pl/
+4. https://konferencja2025.fsma.pl/
+5. https://drawskie-kajaki.pl/
+6. https://lexconsilia.pl/
+7. https://ungc.org.pl/
+8. https://www.bimv.pl/
+9. https://space4tec.com/
+10. https://konferencja2024.fsma.pl/
+11. https://neptun.hmcloud.pl/
+12. https://szukampomocy.pl/
+13. https://hupa.pl/
+14.	https://komornikkolbuszowa.pl/ 
+15.	https://www.betonlagow.pl/ 
+16.	https://libet-kielce.pl/ 
+17.	https://komornikbilgoraj.pl/ 
+18.	http://komornik-traczykwiankowska.pl/ 
+19.	http://komornikbakalarz.pl/ 
+20.	https://rok.com.pl/
+21.	http://phuterapiaruchowa.pl/
+22.	http://pasiekatorun.pl/ 
+23.	http://kamieniarstwolipinski.pl/ 
 
 
 ### Addresses of sites I have completed as a subcontractor:
